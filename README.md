@@ -58,9 +58,6 @@ project/
 │── /assets
 
 ## 🌐 Live Demo
-
-If deployed using GitHub Pages, the live URL will look like:
-
 https://gemini.google.com/share/fbf42ff4a02d
 
 ## 📜 License
